@@ -3,6 +3,10 @@
 Name: Alnoor Verjee<br>
 Date Submitted: 26/02/23
 
+## Demo
+
+![demo-gif](./public/screenshots/pokedex-demo.gif)
+
 ## Installation
 
 - Ensure you have a node version that is at least 15.0.1 or higher
@@ -18,9 +22,5 @@ Date Submitted: 26/02/23
 - Scroll to top
 - Lazy loading of images
 - Responsive design
-
-## Demo
-
-![demo-gif](./public/screenshots/pokedex-demo.gif)
 
 
