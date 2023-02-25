@@ -5,7 +5,8 @@ Date Submitted: 26/02/23
 
 ## Installation
 
-- Clone this repo
+- Ensure you have a node version that is at least 15.0
+- Clone this repo locally
 - Run `npm install` and `npm start`
 - The application opens in `http://localhost:3000/` or any other available port
 
