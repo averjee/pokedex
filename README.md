@@ -1,8 +1,3 @@
-
-## Submission Details
-Name: Alnoor Verjee<br>
-Date Submitted: 26/02/23
-
 ## Demo
 
 ![demo-gif](./public/screenshots/pokedex-demo.gif)
